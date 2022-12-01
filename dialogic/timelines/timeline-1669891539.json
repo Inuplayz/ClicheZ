@@ -1,0 +1,81 @@
+{
+	"events": [
+		{
+			"emit_signal": "Pause",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1669048385.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "STOP\nif you continue to hit him.. you...\n[wave amp=10 freq=50][color=#FA0000]I MEAN HIM YOU[/color][/wave]\n[wave amp=10 freq=50][color=#FA0000]WHATEVER JUST STOP[/color][/wave]\nInstead of fighting it why dont you try to accept your darkness?"
+		},
+		{
+			"character": "character-1669885150.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1669891282.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1669885150.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": ":D"
+		},
+		{
+			"character": "character-1669891282.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": ":D"
+		},
+		{
+			"character": "character-1669048385.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": ":D"
+		},
+		{
+			"character": "character-1669891282.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": ">:("
+		},
+		{
+			"character": "character-1669885150.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": ">:("
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Looks like Lint and Dark Lint has come to their senses, \nand with the acceptance of each other... \nLint's dark self has become...\n[color=#FFFE00]THE LIGHT BOW[/color]"
+		},
+		{
+			"character": "character-1669048385.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "something doesn't seem right though...\nwait...\n[wave amp=10 freq=50][color=#FA0000]AAAAAAAAAAAAUGHHH.....[/color][/wave]"
+		},
+		{
+			"emit_signal": "Yrsf1End",
+			"event_id": "dialogic_040"
+		},
+		{
+			"emit_signal": "Unpause",
+			"event_id": "dialogic_040"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1669891539.json",
+		"name": "Yrsf1"
+	}
+}

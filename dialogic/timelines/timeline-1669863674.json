@@ -1,0 +1,27 @@
+{
+	"events": [
+		{
+			"emit_signal": "Pause",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1669048385.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[wave amp=10 freq=50][color=#FA0000]LOOK OUT!!![/color][/wave]\nThere is a spidery foe ahead, and they are called...\n[color=#FA0000]Tekies![/color]\nstay out of their line of sight, or else they will start jumping at you\nbut do not fret...\n[wave amp=10 freq=50][color=#FA0000]SWING YOUR SWORD BEFORE IT STRIKES YOU!!![/color][/wave]\nDo that by pressing the letter O"
+		},
+		{
+			"emit_signal": "Unpause",
+			"event_id": "dialogic_040"
+		},
+		{
+			"emit_signal": "Tutorial3End",
+			"event_id": "dialogic_040"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1669863674.json",
+		"name": "Tutorial3"
+	}
+}

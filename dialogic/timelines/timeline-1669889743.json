@@ -1,0 +1,39 @@
+{
+	"events": [
+		{
+			"emit_signal": "Pause",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1669048385.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[wave amp=10 freq=50][color=#FA0000]HOLD UP!!![/color][/wave]\nThat must be what is causing all this fuss...\nWell... All i can say is, if it is a boss enemy, shoot it's eye with a bow or something"
+		},
+		{
+			"character": "character-1669885150.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1669048385.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[wave amp=10 freq=50][color=#FA0000]I KNOW IT'S OBVIOUS DON'T LOOK AT ME LIKE THAT[/color][/wave]\nGet in that mirror already"
+		},
+		{
+			"emit_signal": "Bosslvl2End",
+			"event_id": "dialogic_040"
+		},
+		{
+			"emit_signal": "Unpause",
+			"event_id": "dialogic_040"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1669889743.json",
+		"name": "Bosslvl2"
+	}
+}

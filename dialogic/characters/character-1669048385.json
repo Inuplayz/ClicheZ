@@ -1,0 +1,21 @@
+{
+	"color": "#ff347eff",
+	"description": "Your Companion",
+	"display_name": "Navo",
+	"display_name_bool": true,
+	"id": "character-1669048385.json",
+	"mirror_portraits": false,
+	"name": "Navo",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": 0,
+	"offset_y": 0,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": ""
+		}
+	],
+	"scale": 100,
+	"theme": "theme-1669048425.cfg"
+}

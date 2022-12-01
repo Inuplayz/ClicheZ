@@ -1,0 +1,29 @@
+{
+	"events": [
+		{
+			"emit_signal": "Pause",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1669898472.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[wave amp=10 freq=50][color=#FA0000]How...\n[wave amp=10 freq=50][color=#FA0000]DARE...\n[wave amp=10 freq=50][color=#FA0000]YOUUU...\n[wave amp=10 freq=50][color=#FA0000]TURN DARKNESS INTO LIGHT...\n[wave amp=10 freq=50][color=#FA0000]YOU SHALL PAAAAAAYYYY...[/color][/wave]"
+		},
+		{
+			"character": "character-1669048385.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Wheh \nApparently I am alive thank godesses...\nOh Lint look a big [color=#FA0000]EYEBALL[/color]\nYou just got this [wave amp=10 freq=5][color=#FFFE00]Light Bow[/color][/wave]\nshoot arrows by pressing the letter P when the meter on the right is full\nand [wave amp=10 freq=50][color=#FA0000]STRIKE THAT EYEBALL ONCE IT FALLS ON THE GROUND!!![/color][/wave]\nOh and... Beware it's... Tears?"
+		},
+		{
+			"emit_signal": "Unpause",
+			"event_id": "dialogic_040"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1669898451.json",
+		"name": "END"
+	}
+}

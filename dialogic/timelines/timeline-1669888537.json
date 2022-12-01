@@ -1,0 +1,27 @@
+{
+	"events": [
+		{
+			"emit_signal": "Pause",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1669048385.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Its been a while since I talked whew...\nWell here is a really hard to beat foe...\nthe [color=#FA0000]Blueknut!!![/color]\nHe will defend your attacks if you don't wait for his.\nAnd when he is winding up his attack is your moment to STRIKE!!!!"
+		},
+		{
+			"emit_signal": "Bosslvl1End",
+			"event_id": "dialogic_040"
+		},
+		{
+			"emit_signal": "Unpaused",
+			"event_id": "dialogic_040"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1669888537.json",
+		"name": "Bosslvl1"
+	}
+}

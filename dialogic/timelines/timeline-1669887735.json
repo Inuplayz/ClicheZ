@@ -1,0 +1,23 @@
+{
+	"events": [
+		{
+			"emit_signal": "Pause",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1669048385.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "H-h-hey...\nthis place is crawling with Tekies\nbe careful okay, if your hearts deplete you will restart and lose all your gains"
+		},
+		{
+			"emit_signal": "Unpause",
+			"event_id": "dialogic_040"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1669887735.json",
+		"name": "Bosslvl"
+	}
+}

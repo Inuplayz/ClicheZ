@@ -1,0 +1,27 @@
+{
+	"events": [
+		{
+			"emit_signal": "Pause",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1669048385.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "This place sure have some tall grass hu?\nit's kinda annoying not knowing where you are...\neven worse then not knowing where to go.\nGood thing its just a straight walk to the right...\nall our adventures goes like this, isn't strange?"
+		},
+		{
+			"emit_signal": "Unpause",
+			"event_id": "dialogic_040"
+		},
+		{
+			"emit_signal": "Tutorial2End",
+			"event_id": "dialogic_040"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1669863521.json",
+		"name": "Tutorial2"
+	}
+}

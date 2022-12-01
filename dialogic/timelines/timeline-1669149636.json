@@ -1,0 +1,27 @@
+{
+	"events": [
+		{
+			"emit_signal": "Pause",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1669048385.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Don't tell me you where about to bump into a wall...\nJump with space you dingus!"
+		},
+		{
+			"emit_signal": "Unpause",
+			"event_id": "dialogic_040"
+		},
+		{
+			"emit_signal": "Tutorial1End",
+			"event_id": "dialogic_040"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1669149636.json",
+		"name": "Tutorial1"
+	}
+}

@@ -1,0 +1,41 @@
+{
+	"events": [
+		{
+			"emit_signal": "Pause",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1669048385.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No\nWay\nI-i-i-is that y-you LINT???!!!"
+		},
+		{
+			"character": "character-1669891282.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[wave amp=10 freq=50][color=#FA0000]...[/color][/wave]"
+		},
+		{
+			"character": "character-1669048385.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "THAT IS LITERALLY YOU LINT"
+		},
+		{
+			"character": "character-1669885150.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[wave amp=10 freq=50]...[/wave]"
+		},
+		{
+			"emit_signal": "Unpause",
+			"event_id": "dialogic_040"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1669891226.json",
+		"name": "Yrsf"
+	}
+}

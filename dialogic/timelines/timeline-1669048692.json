@@ -1,0 +1,41 @@
+{
+	"events": [
+		{
+			"emit_signal": "Pause",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1669048385.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hey Lint!\nIt's me your fairy best friend, Navo"
+		},
+		{
+			"character": "character-1669885150.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1669048385.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You continue Silent as always eh\nHow come you never speak...\nWell anyway"
+		},
+		{
+			"character": "character-1669048385.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[wave amp=10 freq=50]HURRY WHAT ARE YOU DOING STANDING AROUND !?[/wave]\nThe princess has told us there is an evil aura coming from the nearest temple.\nUse WASD to move and GO!"
+		},
+		{
+			"emit_signal": "Unpause",
+			"event_id": "dialogic_040"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1669048692.json",
+		"name": "Tutorial"
+	}
+}

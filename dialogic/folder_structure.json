@@ -1,0 +1,104 @@
+{
+	"files": [
+
+	],
+	"folders": {
+		"Characters": {
+			"files": [
+				"character-1669048385.json",
+				"character-1669885150.json",
+				"character-1669891282.json",
+				"character-1669898472.json"
+			],
+			"folders": {
+
+			},
+			"metadata": {
+				"color": null,
+				"folded": false
+			}
+		},
+		"Definitions": {
+			"files": [
+
+			],
+			"folders": {
+
+			},
+			"metadata": {
+				"color": null,
+				"folded": false
+			}
+		},
+		"Themes": {
+			"files": [
+				"default-theme.cfg",
+				"theme-1669048425.cfg",
+				"theme-1669891902.cfg",
+				"theme-1669891913.cfg"
+			],
+			"folders": {
+
+			},
+			"metadata": {
+				"color": null,
+				"folded": false
+			}
+		},
+		"Timelines": {
+			"files": [
+				"timeline-1669898451.json"
+			],
+			"folders": {
+				"Bosslvl": {
+					"files": [
+						"timeline-1669887735.json",
+						"timeline-1669888537.json",
+						"timeline-1669889743.json"
+					],
+					"folders": {
+
+					},
+					"metadata": {
+						"color": null,
+						"folded": false
+					}
+				},
+				"Tutorial": {
+					"files": [
+						"timeline-1669048692.json",
+						"timeline-1669149636.json",
+						"timeline-1669863521.json",
+						"timeline-1669863674.json",
+						"timeline-1669884565.json",
+						"timeline-1669884939.json"
+					],
+					"folders": {
+
+					},
+					"metadata": {
+						"color": null,
+						"folded": false
+					}
+				},
+				"Yrsf": {
+					"files": [
+						"timeline-1669891226.json",
+						"timeline-1669891539.json"
+					],
+					"folders": {
+
+					},
+					"metadata": {
+						"color": null,
+						"folded": false
+					}
+				}
+			},
+			"metadata": {
+				"color": null,
+				"folded": false
+			}
+		}
+	}
+}

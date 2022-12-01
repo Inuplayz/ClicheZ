@@ -1,0 +1,39 @@
+{
+	"events": [
+		{
+			"emit_signal": "Pause",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1669048385.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Wow it looks...\n[wave amp=10 freq=40]Really purple and scary...[/wave]\nFigures why the princess felt something bad from it\nbe corageous and let's gooooo....."
+		},
+		{
+			"character": "character-1669885150.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1669048385.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "WHY THE BLUNT FACE \n[wave amp=10 freq=50][color=#FA0000]YOU CREEP ME OUT MORE THEN THE TEMPLE!!![/color][/wave]"
+		},
+		{
+			"emit_signal": "Unpause",
+			"event_id": "dialogic_040"
+		},
+		{
+			"emit_signal": "Tutorial5End",
+			"event_id": "dialogic_040"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1669884939.json",
+		"name": "Tutorial5"
+	}
+}
